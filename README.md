@@ -1,6 +1,6 @@
 # London-Housing-Data-Wrangling-Mini-Project
 Brief Demonstration of Data Wrangling
-# London Housing — Data Wrangling Mini Project
+
 ## Overview
 This project focuses on cleaning, standardizing, and merging two datasets on London housing to create a single, analysis-ready dataset. The goal is to demonstrate data wrangling and cleansing skills, from identifying quality issues to producing a reproducible cleaning pipeline.
 ## Datasets
